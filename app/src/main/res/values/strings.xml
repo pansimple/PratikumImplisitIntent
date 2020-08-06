@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MODULE4</string>
+    <string name="string_nomor_telepon">Masukan Nomor Handphone</string>
+    <string name="open_dial_up">OPEN DIAL PHONE</string>
+    <string name="share_text">SHARE TEXT</string>
+    <string name="string_text">Masukan Text</string>
+    <string name="open_location">OPEN LOCATION</string>
+    <string name="string_buka_lokasi">Cari Lokasi</string>
+    <string name="open_browser">OPEN BROWSER</string>
+    <string name="string_url">Masukan URL</string>
+    <string name="string_judul">IMPLISIT INTENT PARARIJIYO</string>
+</resources>
